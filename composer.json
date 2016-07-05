@@ -1,0 +1,5 @@
+{
+    "name": "heykarthikwithu/reaction-library",
+    "type": "composer-plugin",
+    "description": "A Composer library installer, for drupal reaction module.",
+}
